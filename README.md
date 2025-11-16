@@ -3,7 +3,7 @@
 <hr>
 
 # 💸 Paid Works
-[![SEW Transformers](https://www.sewtransformers.com)] [![Birat Medical Foundation (BMSC)](https://sewtransformers.com)]
+[![SEW Transformers](https://www.sewtransformers.com) [![Birat Medical Foundation (BMSC)](https://sewtransformers.com)]
 
 <hr>
 All the Repo for my Paid Works will be private because the clients dont consent to share the code to everyone, their code is not in my personal repo but rather on differnet organisation of their respective Names, but if you still wanna know some details then here are some of it
