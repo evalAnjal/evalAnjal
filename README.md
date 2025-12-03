@@ -5,7 +5,7 @@
 # 💸 Paid Works
 [SEW Transformers](https://www.sewtransformers.com)
 
-[Birat Medical Foundation (BMSC)](https://sewtransformers.com)
+[Birat Medical Foundation (BMSC)]() Abandoned!
 
 
 <hr>
