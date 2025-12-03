@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br><H3>Hi, I'm Anjal! I'm a developer who enjoys building web apps and APIs, exploring Linux systems, and learning new frameworks.<br><br>- 🔭 Currently working on: YatraPal –travel service platform & a project very close to my heart<br>- 🌱 Learning: Advanced React, Stripe integration, backend optimization<br>- 💡 Interested in: Full-stack dev, UI/UX, and startup tech<br>- 🛠️ Stack: JavaScript, Node.js, Express, MongoDB, React<br>- 📫 Reach me at: flameanjal@gmail.com</H3><br><br>
+<br><br><H3>Hi, I'm Anjal! I'm a developer who enjoys building web apps and APIs, exploring Linux systems, and learning new frameworks.<br><br>- 🔭 Currently working on: YatraPal –travel service platform & a project very close to my heart<br>- 🌱 Learning: Advanced React, full stack in Next Js, backend optimization, Clous (AWS)<br>- 💡 Interested in: Full-stack dev, UI/UX, and startup tech<br>- 🛠️ Stack: JavaScript, Node.js, Express, MongoDB, React<br>- 📫 Reach me at: flameanjal@gmail.com</H3><br><br>
 <hr>
 
 # 💸 Paid Works
@@ -10,7 +10,7 @@
 
 <hr>
 All the Repo for my Paid Works will be private because the clients dont consent to share the code to everyone, their code is not in my personal repo but rather on differnet organisation of their respective Names, but if you still wanna know some details then here are some of it
-- i use Next js as my frontend (Mostly)
+- i use Next js as my frontend (Mostly) sometimes fullstack
 - but i use Express as my backend ( because i feel i am more in control and i host my backend seperatrly)
 - Relational Database is my GOTO
 - if the app is basic and client just want to change data of their website i go with MongoDB
