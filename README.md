@@ -29,6 +29,6 @@ I am continuously expanding my skillset and am currently focused on deepening my
 ![](https://github-readme-stats.vercel.app/api?username=evalAnjal&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false) &nbsp;
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=evalAnjal&theme=catppuccin_mocha&hide_border=false)<br/>
+<!--![](https://nirzak-streak-stats.vercel.app/?user=evalAnjal&theme=catppuccin_mocha&hide_border=false)<br/>-->
 
 
