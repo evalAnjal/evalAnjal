@@ -1,70 +1,131 @@
-# 💫 About Me
+<!-- ================= HEADER ================= -->
 
-<table align="right">
-  <tr>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=evalAnjal&theme=catppuccin_mocha&hide_border=false" alt="Anjal's Streak" />
-    </td>
-  </tr>
-</table>
-
-## Hi, I'm Anjal! 👋
-**Full-Stack Developer | Linux Enthusiast | Startup Tech Advocate**
-
-I specialize in building robust, scalable web applications and APIs. My sweet spot is **Next.js** for seamless frontend experiences and **Express.js** for high-performance, granular backend control. While I'm a fan of relational databases for structured data, I'm equally at home with NoSQL for rapid content management.
-
-- 🔭 **Currently Building:** [YatraPal](https://github.com/evalAnjal) – A travel service platform built with heart.
-- 🌱 **Deepening Expertise:** Advanced React patterns, Next.js 14+ Server Components, and .NET ecosystem.
-- ☁️ **Cloud & Systems:** Exploring backend optimization and AWS infrastructure.
-- 💡 **Philosophy:** I value clean code, client confidentiality, and pixel-perfect UI/UX.
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend & Design
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend & Logic
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### 🗄️ Database & ORM
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=white)
-
-### 🚀 Infrastructure
-![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📚 Featured Projects
-
-| Project | Description | Status |
-| :--- | :--- | :--- |
-| **[YatraPal](https://github.com/evalAnjal)** | A comprehensive travel service platform designed to simplify trip planning. | *In Development* |
-| **[SEW Transformers](https://www.sewtransformers.com)** | A professional web solution for industrial manufacturing, featuring optimized performance and SEO. | *Live / Paid* |
-| **[User Management System](https://www.sewtransformers.com)** | A robust dashboard for handling enterprise-level user authentication and data control. | *Completed* |
-
-> **Note on Confidentiality:** To protect intellectual property, proprietary project repositories are kept private within their respective organizational structures.
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anjalphuyal)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anjal-phuyal)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anjalphuyal)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thevirtualterminal)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjalap117@gmail.com)
-
----
 <p align="center">
-  <i>"Building the web, one commit at a time."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:6366F1,100:22D3EE&height=240&section=header&text=Anjal%20Phuyal&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<h3 align="center">⚙️ Full-Stack Engineer • Systems & Performance</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2400&pause=700&color=22D3EE&center=true&vCenter=true&width=720&lines=Next.js+%2B+Node+Engineer;.NET+API+Builder;System+Design+%26+Performance;Shipping+Real+Products" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=evalAnjal&color=22D3EE&style=flat-square" />
+</p>
+
+---
+
+<!-- ================= HERO VISUAL ================= -->
+
+<p align="center">
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</p>
+
+---
+
+## 🧠 About
+
+* Build **production-grade web systems** (not demo apps)
+* Strong in **Next.js, React, Node, .NET APIs**
+* Focus on **latency, scalability, and clean architecture**
+* Work across **frontend UX + backend correctness**
+* Prefer **measurable improvements over assumptions**
+
+---
+
+## 🚀 Work
+
+### 🧭 YatraPal
+
+* Travel platform (active build)
+* Designed for real workflows (search, booking, data flow)
+* Stack: Next.js + Express + PostgreSQL
+
+---
+
+### 🏭 SEW Transformers
+
+* Industrial website (live client)
+* Delivered SEO + performance optimization
+
+---
+
+### 🧑‍💻 User Management System
+
+* Role-based auth + admin dashboard
+* Focus: data integrity & access control
+
+---
+
+## 🧩 Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,dotnet,postgres,mongodb,linux&perline=5" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma" />
+  <img src="https://img.shields.io/badge/Drizzle-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws" />
+</p>
+
+---
+
+## 📊 Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=evalAnjal&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=evalAnjal&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evalAnjal&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=evalAnjal&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 📚 Learning
+
+* Advanced React patterns & RSC
+* .NET backend architecture
+* AWS infra & scaling
+
+---
+
+## ⚡ Principles
+
+> Build systems, not features
+> Measure before optimizing
+> Clarity over cleverness
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/anjalphuyal">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/anjalphuyal">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@thevirtualterminal">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" />
+  </a>
+  <a href="mailto:anjalap117@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:6366F1,100:111827&height=140&section=footer" />
 </p>
